@@ -1,0 +1,44 @@
+users table
+id
+fname
+lname
+email
+password
+job_description
+department
+address
+contact
+incaseofemergency
+photo
+date_started
+access_level
+role_on_date
+
+jd table
+job_description
+salary
+id
+
+access table
+id
+access level
+
+department table
+id
+department
+head
+
+benefits
+id
+benefits
+
+attendance
+id
+time_in
+time_out
+date
+
+
+
+
+
